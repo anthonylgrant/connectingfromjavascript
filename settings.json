@@ -1,0 +1,8 @@
+{
+  "user": "lcrlcpwkwptsnb",
+  "password": "tGI2LgjnfTJ080y6m7dW30g4s8",
+  "database": "d4p2fprn08ec9",
+  "hostname": "ec2-54-235-132-192.compute-1.amazonaws.com",
+  "port": 5432,
+  "ssl": true
+}
